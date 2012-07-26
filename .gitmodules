@@ -16,6 +16,9 @@
 [submodule "libs/assign"]
 	path = libs/assign
 	url = git://github.com/boost-lib/assign.git
+[submodule "libs/atomic"]
+	path = libs/atomic
+	url = git://github.com/boost-lib/atomic.git
 [submodule "libs/bimap"]
 	path = libs/bimap
 	url = git://github.com/boost-lib/bimap.git
@@ -307,6 +310,9 @@
 [submodule "libs/local_function"]
 	path = libs/local_function
 	url = git://github.com/boost-lib/local_function.git
+[submodule "libs/lockfree"]
+	path = libs/lockfree
+	url = git://github.com/boost-lib/lockfree.git
 [submodule "libs/numeric_conversion"]
 	path = libs/numeric_conversion
 	url = git://github.com/boost-lib/numeric_conversion.git
